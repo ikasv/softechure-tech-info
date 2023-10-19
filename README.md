@@ -8,4 +8,4 @@
 - [ Html ](#)
 - [ Css ](#)
 - [ Shopify ](#)
-> _Everything_ is going according to **the plan**.
+> _Everything_ is going according to **the plan**. 
