@@ -1,4 +1,4 @@
-![Softechure](favicon.ico) # Softechure Tech Info ❤️
+# Softechure Tech Info ❤️ ![Softechure](https://raw.githubusercontent.com/ikasv/softechure-tech-info/master/favicon.png) 
 ## All basic info about html, css, bootstrap, git, ci3, core php, laravel, mysql, react, shopify, etc.
 - [ Git vs GitHub ](https://github.com/ikasv/softechure-tech-info/blob/master/git-vs-github.md)
 - [ Laravel ](#)
